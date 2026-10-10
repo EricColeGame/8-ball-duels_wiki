@@ -1,0 +1,14 @@
+{
+  "name": "8-ball-duels-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "8-ball-duels.wiki",
+      "custom_domain": true
+    }
+  ]
+}
