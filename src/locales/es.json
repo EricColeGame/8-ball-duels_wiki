@@ -1,1 +1,480 @@
-{}
+{
+  "site": {
+    "name": "8 Ball Duels Wiki",
+    "shortName": "8 Ball Duels",
+    "tagline": "Guías completas, códigos, tacos y tiros de fantasía",
+    "description": "8 Ball Duels es un juego de billar competitivo centrado en partidas de pool online, tiros estratégicos, control del taco y duelos directos contra otros jugadores.",
+    "legalNotice": "Wiki no oficial de fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "codes": "Códigos",
+    "mechanics": "Mecánicas",
+    "controls": "Controles",
+    "progression": "Progresión",
+    "modes": "Modos",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "8 Ball Duels Wiki - Códigos, guías y consejos",
+      "description": "Explora 8 Ball Duels Wiki para encontrar guías de juego, estrategias de billar, códigos, consejos, modos y todo lo necesario para mejorar tu nivel competitivo."
+    },
+    "hero": {
+      "eyebrow": "Juego de duelos de billar online competitivo",
+      "title": "8 Ball Duels Wiki",
+      "description": "8 Ball Duels es un juego de billar competitivo centrado en partidas de pool online, tiros estratégicos, control del taco y duelos directos contra otros jugadores.",
+      "stats": [
+        "Más de 1M de visitas",
+        "8 modos de juego disponibles",
+        "0 códigos activos",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de tacos",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en 8 Ball Duels",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina las reglas estándar de bola 8, aperturas de mesa, asignación de lisas y rayadas, y seguridad de bola en mano."
+        },
+        {
+          "number": "2",
+          "title": "Canjear códigos gratis",
+          "description": "Reclama códigos promocionales activos para ganar monedas iniciales, tizas exclusivas y estuches de taco para principiantes."
+        },
+        {
+          "number": "3",
+          "title": "Subida de nivel más rápida",
+          "description": "Gana el máximo de XP mediante bolas embocadas consecutivas, despejes limpios de mesa y victorias en torneos."
+        },
+        {
+          "number": "4",
+          "title": "Mejoras de taco y estadísticas",
+          "description": "Invierte tus ganancias en líneas de puntería, efecto de la blanca y extensiones de tiempo para duelos competitivos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Guías populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Códigos activos",
+        "Mejoras de taco",
+        "Tiros de fantasía"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Domina los conceptos básicos de la mesa, la selección de tiros y evita costosas faltas desde el primer día.",
+          "href": "/guide/8-ball-duels-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Canjea todos los códigos promocionales válidos para obtener monedas gratis y fragmentos de taco.",
+          "href": "/codes/8-ball-duels-codes"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Mejoras de taco",
+          "description": "Descubre las prioridades estadísticas de puntería, fuerza, efecto y extensiones de tiempo.",
+          "href": "/progression/8-ball-duels-upgrades"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tiros de fantasía",
+          "description": "Aprende tiros de banda, carambolas y manipulación de efectos para resolver mesas complicadas.",
+          "href": "/guide/8-ball-duels-trick-shots"
+        },
+        {
+          "badge": "Guía",
+          "title": "Guía de controles",
+          "description": "Domina los controles de taco en PC y móvil, ajusta la puntería milimétrica y la sincronización del golpe.",
+          "href": "/controls/8-ball-duels-controls-guide"
+        },
+        {
+          "badge": "Modos",
+          "title": "Torneos",
+          "description": "Asciende en cuadros eliminatorios de varias rondas para ganar trofeos exclusivos.",
+          "href": "/modes/8-ball-duels-tournaments"
+        },
+        {
+          "badge": "Estrategia",
+          "title": "Tiros de banda",
+          "description": "Calcula ángulos geométricos contra la banda para embocar de forma constante.",
+          "href": "/guide/8-ball-duels-bank-shots"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "El saque perfecto",
+          "description": "Optimiza la fuerza de saque y el contacto frontal para controlar la apertura de la mesa.",
+          "href": "/mechanics/8-ball-duels-break"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Guía de puntería",
+          "description": "Calibra líneas de corte y predicciones de trayectoria de la bola blanca.",
+          "href": "/mechanics/8-ball-duels-aiming"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es 8 Ball Duels?",
+      "paragraphs": [
+        "8 Ball Duels es un juego de billar multijugador online competitivo en Roblox con físicas realistas de mesa, duelos directos 1 contra 1 y cuadros de torneos eliminatorios de varias rondas. Los jugadores apuestan monedas en diferentes salas de billar, calculan ángulos precisos y embocan lisas o rayadas antes de meter la bola 8 para lograr la victoria.",
+        "Domina la manipulación del efecto de la bola blanca, ajusta tus líneas de guía de puntería y mejora tacos especializados para incrementar la precisión del tiro, la potencia y los límites del reloj de turno. Ya sea ejecutando delicados tiros de banda u orquestando carambolas de varias bolas, nuestra wiki ofrece estrategias exhaustivas y desgloses mecánicos para ayudarte a dominar cada mesa."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Billar competitivo"
+        },
+        {
+          "label": "Visitas totales",
+          "value": "1M+"
+        },
+        {
+          "label": "Modos de juego",
+          "value": "8 modos"
+        },
+        {
+          "label": "Códigos activos",
+          "value": "Disponibles"
+        },
+        {
+          "label": "Actualizaciones",
+          "value": "Semanales"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explorar la enciclopedia de 8 Ball Duels",
+      "description": "Navega por módulos estructurados dedicados a tutoriales de tiro, cuadros de torneos, atributos de tacos y notas de parches competitivos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de 8 Ball Duels",
+          "description": "Este módulo introduce a los nuevos jugadores a la dinámica básica, sistema de partidas, controles, puntería y mecánicas de progresión.",
+          "displayType": "step-by-step",
+          "href": "/guide/8-ball-duels-beginner-guide",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Ejecuta un saque controlado hacia la bola principal para dispersar los grupos por el paño"
+            },
+            {
+              "label": "2",
+              "detail": "Emboca tu primera bola legal para asegurar lisas (1-7) o rayadas (9-15)"
+            },
+            {
+              "label": "3",
+              "detail": "Planifica la trayectoria de la blanca usando la rueda de ajuste milimétrico y el selector de efecto"
+            },
+            {
+              "label": "4",
+              "detail": "Despeja por completo tu grupo de bolas antes de embocar la bola 8 negra para ganar"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de 8 Ball Duels",
+          "description": "Este módulo cubre códigos de recompensa disponibles, métodos de canje y bonificaciones de eventos oficiales.",
+          "displayType": "code-cards",
+          "href": "/codes/8-ball-duels-codes",
+          "highlights": [
+            {
+              "label": "WELCOME",
+              "detail": "Canjea por 2.500 monedas de bonificación y un estuche de taco inicial",
+              "badge": "Activo"
+            },
+            {
+              "label": "DUELS2026",
+              "detail": "Canjea por 5.000 monedas y kit de tiza prémium",
+              "badge": "Activo"
+            },
+            {
+              "label": "TRICKSHOT",
+              "detail": "Canjea por un vale exclusivo de tirada de efecto",
+              "badge": "Activo"
+            },
+            {
+              "label": "CUECHAMP",
+              "detail": "Canjea por una entrada gratuita para cuadro de torneo",
+              "badge": "Activo"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tacos de 8 Ball Duels",
+          "description": "Este módulo explica los diferentes tacos, mejoras y la progresión de equipo en el juego.",
+          "displayType": "card-list",
+          "href": "/progression/8-ball-duels-upgrades",
+          "highlights": [
+            {
+              "label": "Force",
+              "detail": "Taco de saque de alto impacto diseñado para dispersar bolas agrupadas con máxima velocidad"
+            },
+            {
+              "label": "Precision",
+              "detail": "Taco con línea de guía ampliada diseñado para tiros a larga distancia"
+            },
+            {
+              "label": "Vortex",
+              "detail": "Taco con gran efecto optimizado para retrocesos y tiros curvados de escape"
+            },
+            {
+              "label": "Titan",
+              "detail": "Taco equilibrado de campeonato que otorga tiempo adicional de turno"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tiros de fantasía de 8 Ball Duels",
+          "description": "Este módulo se centra en técnicas avanzadas de golpeo, tiros de fantasía, puntería y cómo resolver situaciones difíciles.",
+          "displayType": "step-by-step",
+          "href": "/guide/8-ball-duels-trick-shots",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Calcula rebotes en banda para esquivar bolas rivales que bloquean el camino"
+            },
+            {
+              "label": "2",
+              "detail": "Aplica retroceso inferior para alejar la blanca de las troneras y evitar faltas"
+            },
+            {
+              "label": "3",
+              "detail": "Usa efecto corrido superior para impulsar la blanca hacia una posición favorable"
+            },
+            {
+              "label": "4",
+              "detail": "Alinea carambolas entre bolas para embocar objetivos atrapados tras agrupaciones"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de equipo de 8 Ball Duels",
+          "description": "Información sobre equipo mejorable, mesas de billar y opciones de personalización.",
+          "displayType": "tier-grid",
+          "href": "/progression/8-ball-duels-unlocks",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tacos Legendarios: Máxima guía de puntería, +10s de reloj y gran fricción de efecto"
+            },
+            {
+              "label": "A",
+              "detail": "Tacos de Torneo: Alto nivel de efecto y líneas largas para partidas competitivas"
+            },
+            {
+              "label": "B",
+              "detail": "Tacos Avanzados: Potencia equilibrada y sólido control de efecto para salas intermedias"
+            },
+            {
+              "label": "C",
+              "detail": "Tacos Iniciales: Tacos básicos de madera con guías cortas y fuerza estándar"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de ligas de 8 Ball Duels",
+          "description": "Explica el sistema de clasificación de ligas, partidas competitivas y estrategias para escalar en la tabla.",
+          "displayType": "card-list",
+          "href": "/modes/8-ball-duels-tournaments",
+          "highlights": [
+            {
+              "label": "Master",
+              "detail": "Cuadro de élite con apuestas altas, sin asistencia de puntería y turnos ajustados de 25s"
+            },
+            {
+              "label": "Diamond",
+              "detail": "Liga avanzada que exige un posicionamiento impecable de la blanca y altas entradas"
+            },
+            {
+              "label": "Platinum",
+              "detail": "División competitiva con guías medias y recompensas de cuadro de torneo"
+            },
+            {
+              "label": "Rookie",
+              "detail": "División de iniciación con guías completas y protección de monedas para novatos"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de controles de 8 Ball Duels",
+          "description": "Lista de controles disponibles para PC, móvil, Xbox y PlayStation para aprender a apuntar y tirar con precisión.",
+          "displayType": "code-cards",
+          "href": "/controls/8-ball-duels-controls-guide",
+          "highlights": [
+            {
+              "label": "Drag Aim",
+              "detail": "Arrastra el taco alrededor de la mesa para alinear la trayectoria hacia la tronera",
+              "badge": "Táctil/Ratón"
+            },
+            {
+              "label": "Fine Wheel",
+              "detail": "Microajuste de ángulos de tiro en incrementos de un solo grado",
+              "badge": "Precisión"
+            },
+            {
+              "label": "Power Bar",
+              "detail": "Desliza el taco hacia atrás para calibrar la velocidad del golpe del 1% al 100%",
+              "badge": "Impulso"
+            },
+            {
+              "label": "Spin Ball",
+              "detail": "Selecciona el punto de contacto en la blanca para aplicar efecto superior, inferior o lateral",
+              "badge": "Trayectoria"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones de 8 Ball Duels",
+          "description": "Actualizaciones oficiales, contenido de temporada, nuevos tacos, mesas de billar y cambios en la jugabilidad.",
+          "displayType": "card-list",
+          "href": "/community/8-ball-duels-updates",
+          "highlights": [
+            {
+              "label": "Physics",
+              "detail": "Tensión de rebote en bandas perfeccionada y fricción natural del paño optimizada"
+            },
+            {
+              "label": "Brackets",
+              "detail": "Torneos de eliminación directa de 16 jugadores con trofeos exclusivos"
+            },
+            {
+              "label": "Custom",
+              "detail": "Nuevos acabados para tacos, estelas de tiza coleccionables y paños personalizados"
+            },
+            {
+              "label": "Ranked",
+              "detail": "Emparejamiento por nivel mejorado y reinicios semanales de clasificación"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes sobre reglas, mecánicas, tacos y códigos de 8 Ball Duels.",
+      "items": [
+        {
+          "question": "¿Qué es 8 Ball Duels?",
+          "answer": "8 Ball Duels es un juego de billar online competitivo en Roblox donde los jugadores se enfrentan en partidas 1v1 en tiempo real y cuadros de torneos siguiendo las reglas estándar de bola 8."
+        },
+        {
+          "question": "¿Cómo funcionan las reglas de las partidas y las faltas en 8 Ball Duels?",
+          "answer": "En 8 Ball Duels, la mesa permanece abierta hasta que un jugador emboca legalmente una bola cantada, asignando lisas o rayadas. Cometer falta metiendo la blanca o golpeando una bola rival concede bola en mano, mientras que meter la bola 8 antes de tiempo supone la derrota inmediata."
+        },
+        {
+          "question": "¿Cómo canjeo códigos promocionales en 8 Ball Duels?",
+          "answer": "Para canjear códigos en 8 Ball Duels, abre el menú de Tienda o Ajustes en el lobby, toca el botón de Código Promocional, introduce tu código activo y confirma para recibir monedas gratis y objetos para tacos."
+        },
+        {
+          "question": "¿Qué estadísticas de taco debo priorizar al mejorar en 8 Ball Duels?",
+          "answer": "Al mejorar tacos en 8 Ball Duels, prioriza la longitud de la guía de Puntería y el control de Efecto para posicionar la bola. El Tiempo extra es clave para tiros complejos, mientras que la Fuerza debe subirse con cuidado para no pasarse de potencia."
+        },
+        {
+          "question": "¿Cómo funcionan los cuadros de torneos en 8 Ball Duels?",
+          "answer": "Los torneos en 8 Ball Duels constan de cuadros de eliminación directa para 8 a 32 jugadores, donde encadenar victorias consecutivas otorga trofeos exclusivos y grandes premios en monedas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar 8 Ball Duels?",
+      "description": "Desde tu tiro de saque inicial hasta tiros de fantasía decisivos para la bola 8, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "8 Ball Duels Wiki",
+    "about": "8 Ball Duels Wiki es un centro de guías independiente creado por la comunidad, que abarca estrategias de partidas, mejoras de tacos, modos de juego, tiros de fantasía y consejos esenciales para jugadores nuevos y competitivos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "© 2026 8 Ball Duels Wiki. No afiliado a Roblox ni a los desarrolladores del juego.",
+    "description": "Juego de duelos de billar online competitivo en Roblox. Tiros estratégicos, control del taco y enfrentamientos directos.",
+    "playGame": "Jugar a 8 Ball Duels",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "cuePlanner": "Planificador de tacos",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Modos de juego",
+    "bossGuides": "Tiros de fantasía",
+    "buildGuide": "Tacos de billar",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y estrategias de 8 Ball Duels",
+    "overviewDescription": "Tutoriales exhaustivos, guías para novatos, métodos de tiros de banda y estrategias ganadoras para 8 Ball Duels."
+  },
+  "codes": {
+    "overviewTitle": "Códigos y recompensas gratis de 8 Ball Duels",
+    "overviewDescription": "Todos los códigos de canje activos, recompensas de monedas gratis, tacos promocionales y pasos de canje para 8 Ball Duels."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de 8 Ball Duels",
+    "overviewDescription": "Análisis profundo de la simulación de físicas, predicción de trayectorias, rebotes en banda, control de efectos y reglas oficiales de duelo."
+  },
+  "controls": {
+    "overviewTitle": "Controles y ajustes de 8 Ball Duels",
+    "overviewDescription": "Guía completa de ruedas de puntería, deslizadores de potencia, gestos táctiles y configuración de ratón en todas las plataformas."
+  },
+  "progression": {
+    "overviewTitle": "Progresión y mejoras en 8 Ball Duels",
+    "overviewDescription": "Hitos de nivel, obtención de monedas, desbloqueo de categorías de tacos y mejoras estadísticas en 8 Ball Duels."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de 8 Ball Duels",
+    "overviewDescription": "Explora duelos 1v1, salas multijugador, desafíos de tiros de fantasía y cuadros de torneos de altas apuestas."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y actualizaciones de 8 Ball Duels",
+    "overviewDescription": "Mantente conectado con servidores oficiales de Discord, comunidades de Reddit, notas de parches y novedades de versiones."
+  }
+}

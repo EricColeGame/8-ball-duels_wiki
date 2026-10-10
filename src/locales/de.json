@@ -1,1 +1,480 @@
-{}
+{
+  "site": {
+    "name": "8 Ball Duels Wiki",
+    "shortName": "8 Ball Duels",
+    "tagline": "Komplette Guides, Codes, Queues & Trickshots",
+    "description": "8 Ball Duels ist ein kompetitives Billardspiel mit Fokus auf Online-Pool-Matches, strategische Stöße, Queue-Kontrolle und direkte 1v1-Duelle gegen andere Spieler.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "progression": "Fortschritt",
+    "modes": "Modi",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "8 Ball Duels Wiki - Codes, Guides & Tipps",
+      "description": "Entdecke das 8 Ball Duels Wiki für Spiel-Guides, Pool-Strategien, Codes, Tipps, Spielmodi und alles, was du für dein kompetitives Billardspiel benötigst."
+    },
+    "hero": {
+      "eyebrow": "Kompetitives Online-Pool-Duellspiel",
+      "title": "8 Ball Duels Wiki",
+      "description": "8 Ball Duels ist ein kompetitives Billardspiel mit Fokus auf Online-Pool-Matches, strategische Stöße, Queue-Kontrolle und direkte Duelle gegen andere Spieler.",
+      "stats": [
+        "Über 1M Besuche",
+        "8 Spielmodi verfügbar",
+        "0 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Queue-Guide",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in 8 Ball Duels",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Meistere Standard-8-Ball-Regeln, Tischöffnungen, Zuteilung von Vollen und Halben sowie Ball-in-Hand-Sicherheiten."
+        },
+        {
+          "number": "2",
+          "title": "Gratis Codes einlösen",
+          "description": "Löse aktive Promo-Codes ein, um Startmünzen, exklusive Kreide und Starter-Queue-Koffer zu erhalten."
+        },
+        {
+          "number": "3",
+          "title": "Schnellstes Leveln",
+          "description": "Verdiene maximales XP durch aufeinanderfolgend versenkte Kugeln, fehlerfreie Tische und Turniersiege."
+        },
+        {
+          "number": "4",
+          "title": "Queue-Upgrades & Werte",
+          "description": "Investiere Gewinne in Ziellinien, Spielball-Effet und Zeitverlängerungen für kompetitive Duelle."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Guides",
+      "title": "Jetzt im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Aktive Codes",
+        "Queue-Upgrades",
+        "Trickshots"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Lerne Tischgrundlagen, Stoßauswahl und vermeide teure Fouls vom ersten Tag an.",
+          "href": "/guide/8-ball-duels-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Löse alle funktionierenden Promo-Codes für kostenlose Münzen und Queue-Fragmente ein.",
+          "href": "/codes/8-ball-duels-codes"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Queue-Upgrades",
+          "description": "Erfahre die wichtigsten Prioritäten für Zielen, Kraft, Effet und Zeitboni.",
+          "href": "/progression/8-ball-duels-upgrades"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Trickshots",
+          "description": "Lerne Bandenstöße, Karambolagen und Effet-Steuerung, um knifflige Tische zu lösen.",
+          "href": "/guide/8-ball-duels-trick-shots"
+        },
+        {
+          "badge": "Guide",
+          "title": "Steuerungs-Guide",
+          "description": "Beherrsche Queue-Eingaben auf PC und Mobilgeräten, Feinjustierung und Stoß-Timing.",
+          "href": "/controls/8-ball-duels-controls-guide"
+        },
+        {
+          "badge": "Modi",
+          "title": "Turniere",
+          "description": "Klettere in K.-o.-Turnieren über mehrere Runden nach oben für exklusive Trophäen.",
+          "href": "/modes/8-ball-duels-tournaments"
+        },
+        {
+          "badge": "Strategie",
+          "title": "Bandenstöße",
+          "description": "Berechne geometrische Bandenwinkel für verlässliche Locherfolge über die Bande.",
+          "href": "/guide/8-ball-duels-bank-shots"
+        },
+        {
+          "badge": "Mechaniken",
+          "title": "Der perfekte Anstoß",
+          "description": "Optimiere Break-Power und Kopfbalkontakt, um das Bild auf dem Tisch zu kontrollieren.",
+          "href": "/mechanics/8-ball-duels-break"
+        },
+        {
+          "badge": "Mechaniken",
+          "title": "Ziel-Guide",
+          "description": "Kalibriere Schnittwinkel und die Vorhersage der Spielball-Laufbahnen.",
+          "href": "/mechanics/8-ball-duels-aiming"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist 8 Ball Duels?",
+      "paragraphs": [
+        "8 Ball Duels ist ein kompetitives Online-Multiplayer-Billardspiel auf Roblox mit realistischer Tischphysik, direkten 1v1-Duellen und mehrstufigen K.-o.-Turnierbäumen. Spieler setzen Münzen in verschiedenen Billardsälen, visieren präzise Winkel an und versenken Volle oder Halbe, bevor sie die 8er-Kugel für den Sieg lochen.",
+        "Meistere die Spielball-Effet-Steuerung, kalibriere deine Ziellinien und verbessere spezialisierte Queues für höhere Präzision, Stoßkraft und Schussuhr-Verlängerungen. Ob filigrane Bandenstöße oder mehrteilige Karambolagen – unser Wiki bietet umfassende Strategien und mechanische Analysen, um jeden Tisch zu dominieren."
+      ],
+      "stats": [
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Kompetitives Billard"
+        },
+        {
+          "label": "Gesamtbesuche",
+          "value": "1M+"
+        },
+        {
+          "label": "Spielmodi",
+          "value": "8 Modi"
+        },
+        {
+          "label": "Aktive Codes",
+          "value": "Verfügbar"
+        },
+        {
+          "label": "Updates",
+          "value": "Wöchentlich"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Die 8 Ball Duels Enzyklopädie erkunden",
+      "description": "Entdecke strukturierte Module zu Stoß-Tutorials, Turnierbäumen, Queue-Werten und kompetitiven Patch-Notizen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "8 Ball Duels Anfänger-Guide",
+          "description": "Führt neue Spieler in Match-Abläufe, Steuerung, Zieltechniken und Fortschrittsmechaniken ein.",
+          "displayType": "step-by-step",
+          "href": "/guide/8-ball-duels-beginner-guide",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Führe einen kontrollierten Anstoß auf den Kopfball aus, um die Kugeln gut zu verteilen"
+            },
+            {
+              "label": "2",
+              "detail": "Loche deine erste regelkonforme Kugel, um Volle (1-7) oder Halbe (9-15) zu sichern"
+            },
+            {
+              "label": "3",
+              "detail": "Plane die Laufbahn der Weißen mit Feinjustierungsrad und Effet-Wähler"
+            },
+            {
+              "label": "4",
+              "detail": "Räume deine zugeteilte Kugelgruppe vollständig ab, bevor du die schwarze 8 versenkst"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "8 Ball Duels Codes",
+          "description": "Enthält verfügbare Belohnungscodes, Einlösemethoden und Bonusgegenstände aus offiziellen Events.",
+          "displayType": "code-cards",
+          "href": "/codes/8-ball-duels-codes",
+          "highlights": [
+            {
+              "label": "WELCOME",
+              "detail": "Einlösen für 2.500 Bonusmünzen und ein Starter-Queue-Etui",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "DUELS2026",
+              "detail": "Einlösen für 5.000 Münzen und ein Premium-Kreideset",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "TRICKSHOT",
+              "detail": "Einlösen für einen exklusiven Effet-Drehschein",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "CUECHAMP",
+              "detail": "Einlösen für ein kostenloses Turnier-Ticket",
+              "badge": "Aktiv"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "8 Ball Duels Queues",
+          "description": "Erklärt verschiedene Queues, Upgrades und den Ausrüstungsfortschritt im Spiel.",
+          "displayType": "card-list",
+          "href": "/progression/8-ball-duels-upgrades",
+          "highlights": [
+            {
+              "label": "Force",
+              "detail": "Kraftvolles Break-Queue zur maximalen Kugelstreuung bei engen Anstößen"
+            },
+            {
+              "label": "Precision",
+              "detail": "Queue mit verlängerter Ziellinie speziell für Distanzstöße"
+            },
+            {
+              "label": "Vortex",
+              "detail": "Queue mit starkem Effet für Rückzieher und Bogenstöße zur Befreiung"
+            },
+            {
+              "label": "Titan",
+              "detail": "Ausgewogenes Meisterschafts-Queue mit Stoßuhr-Zeitverlängerung"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "8 Ball Duels Trickshots",
+          "description": "Fokussiert auf fortgeschrittene Stoßtechniken, Kunststöße, Zielen und das Lösen blockierter Tische.",
+          "displayType": "step-by-step",
+          "href": "/guide/8-ball-duels-trick-shots",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Berechne Bandenreflexionen, um störende gegnerische Kugeln zu umgehen"
+            },
+            {
+              "label": "2",
+              "detail": "Nutze Unterschnitt-Effet (Draw), um die Weiße vor Taschenabläufen zurückzuziehen"
+            },
+            {
+              "label": "3",
+              "detail": "Nutze Nachlauf-Effet (Topspin), um den Spielball in die ideale Folgeposition zu schieben"
+            },
+            {
+              "label": "4",
+              "detail": "Richte Karambolagen aus, um Kugeln hinter dichten Clustern zu versenken"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "8 Ball Duels Ausrüstungs-Guide",
+          "description": "Informationen über verbesserbare Ausrüstung, Tische und Anpassungsoptionen.",
+          "displayType": "tier-grid",
+          "href": "/progression/8-ball-duels-unlocks",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Legendäre Queues: Maximale Ziellinie, +10s Stoßuhr und höchste Effet-Haftung"
+            },
+            {
+              "label": "A",
+              "detail": "Turnier-Queues: Hoher Effet-Wert und lange Zielpfade für Ranglistenspiele"
+            },
+            {
+              "label": "B",
+              "detail": "Fortgeschrittene Queues: Ausgewogene Kraft und solide Effet-Kontrolle"
+            },
+            {
+              "label": "C",
+              "detail": "Starter-Queues: Einfache Holzqueues mit kurzen Leitlinien und Basiskraft"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "8 Ball Duels Ligen-Guide",
+          "description": "Erklärt das Ranglistensystem, Ligaspiele und Taktiken zum Aufstieg in Bestenlisten.",
+          "displayType": "card-list",
+          "href": "/modes/8-ball-duels-tournaments",
+          "highlights": [
+            {
+              "label": "Master",
+              "detail": "Elite-Turnierbaum mit hohem Einsatz, ohne Zielhilfen und straffen 25s Timern"
+            },
+            {
+              "label": "Diamond",
+              "detail": "Fortgeschrittene Liga mit exakter Spielball-Positionierung und hohen Buy-ins"
+            },
+            {
+              "label": "Platinum",
+              "detail": "Kompetitive Division mit mittleren Leitlinien und Turnierbelohnungen"
+            },
+            {
+              "label": "Rookie",
+              "detail": "Einstiegs-Division mit vollen Leitlinien und Münzschutz für Anfänger"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "8 Ball Duels Steuerungs-Guide",
+          "description": "Übersicht aller Steuerungsoptionen für PC, Mobilgeräte, Xbox und PlayStation zum genauen Zielen.",
+          "displayType": "code-cards",
+          "href": "/controls/8-ball-duels-controls-guide",
+          "highlights": [
+            {
+              "label": "Drag Aim",
+              "detail": "Zieht das Queue um den Tisch, um die Taschentrajektorie auszurichten",
+              "badge": "Touch/Maus"
+            },
+            {
+              "label": "Fine Wheel",
+              "detail": "Feinjustiert den Stoßwinkel in Ein-Grad-Schritten",
+              "badge": "Präzision"
+            },
+            {
+              "label": "Power Bar",
+              "detail": "Zieht das Queue zurück zur Dosierung der Stoßgeschwindigkeit von 1% bis 100%",
+              "badge": "Impuls"
+            },
+            {
+              "label": "Spin Ball",
+              "detail": "Wählt den Treffpunkt auf dem Spielball für Ober-, Unter- oder Seiteneffet",
+              "badge": "Trajektorie"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "8 Ball Duels Updates",
+          "description": "Sammelt offizielle Updates, Saisoninhalte, neue Queues, Tische und Gameplay-Änderungen.",
+          "displayType": "card-list",
+          "href": "/community/8-ball-duels-updates",
+          "highlights": [
+            {
+              "label": "Physics",
+              "detail": "Verfeinerte Bandenspannung und optimierter natürlicher Rollwiderstand"
+            },
+            {
+              "label": "Brackets",
+              "detail": "16-Spieler K.-o.-Turniere mit exklusiven Trophäenprämien eingeführt"
+            },
+            {
+              "label": "Custom",
+              "detail": "Neue Queue-Designs, sammelbare Kreidespuren und Tischtücher hinzugefügt"
+            },
+            {
+              "label": "Ranked",
+              "detail": "Verbesserte fähigkeitsbasierte Spielersuche und wöchentliche Liga-Resets"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Regeln, Mechaniken, Queues und Codes in 8 Ball Duels.",
+      "items": [
+        {
+          "question": "Was ist 8 Ball Duels?",
+          "answer": "8 Ball Duels ist ein kompetitives Online-Billardspiel auf Roblox, bei dem Spieler in 1v1-Matches und K.-o.-Turnieren nach Standard-8-Ball-Regeln antreten."
+        },
+        {
+          "question": "Wie funktionieren Match-Regeln und Fouls in 8 Ball Duels?",
+          "answer": "In 8 Ball Duels bleibt der Tisch offen, bis ein Spieler eine angesagte Kugel regelkonform locht, wodurch Volle oder Halbe festgelegt werden. Ein Foul durch Versenken der Weißen oder Treffen gegnerischer Kugeln gewährt dem Gegner Ball in Hand, während ein verfrühtes Lochen der 8er-Kugel zur sofortigen Niederlage führt."
+        },
+        {
+          "question": "Wie löse ich Promo-Codes in 8 Ball Duels ein?",
+          "answer": "Um Codes in 8 Ball Duels einzulösen, öffne im Hauptmenü den Shop oder die Einstellungen, klicke auf die Promo-Code-Schaltfläche, gib deinen aktiven Code ein und bestätige, um Gratis-Münzen und Queue-Items zu erhalten."
+        },
+        {
+          "question": "Welche Queue-Werte sollte ich in 8 Ball Duels priorisieren?",
+          "answer": "Priorisiere beim Verbessern von Queues die Ziellänge und die Effet-Kontrolle für präzise Spielball-Ablagen. Zusätzliche Stoßzeit ist entscheidend für komplizierte Situationen, während Kraft behutsam gesteigert werden sollte, um Überstöße zu vermeiden."
+        },
+        {
+          "question": "Wie funktionieren Turnierbäume in 8 Ball Duels?",
+          "answer": "Turniere in 8 Ball Duels finden als K.-o.-Runden mit 8 bis 32 Spielern statt, bei denen mehrere aufeinanderfolgende Siege exklusive Trophäen und hohe Münzprämien einbringen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, 8 Ball Duels zu meistern?",
+      "description": "Vom perfekten Eröffnungsstoß bis zu spielentscheidenden 8er-Trickshots – unser Community-Wiki liefert dir kostenlose und aktuelle Guides.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Bereich",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "8 Ball Duels Wiki",
+    "about": "8 Ball Duels Wiki ist ein unabhängiges, von Fans erstelltes Informationszentrum für Match-Strategien, Queue-Upgrades, Spielmodi, Trickshots und grundlegende Tipps für Anfänger und Turnierspieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "© 2026 8 Ball Duels Wiki. Nicht mit Roblox oder den Spieleentwicklern verbunden.",
+    "description": "Kompetitives Online-Pool-Duellspiel auf Roblox. Strategische Stöße, Queue-Kontrolle und direkte Duelle.",
+    "playGame": "8 Ball Duels spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "cuePlanner": "Queue-Planer",
+    "beginnerGuide": "Anfänger-Guide",
+    "raceGuides": "Spielmodi",
+    "bossGuides": "Trickshots",
+    "buildGuide": "Queue-Stöcke",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "8 Ball Duels Guides & Strategien",
+    "overviewDescription": "Umfassende Spiel-Walkthroughs, Anfänger-Tutorials, Bandenstoß-Methoden und Siegesstrategien für 8 Ball Duels."
+  },
+  "codes": {
+    "overviewTitle": "8 Ball Duels Codes & Gratis-Belohnungen",
+    "overviewDescription": "Alle aktiven Einlösecodes, kostenlose Münzbelohnungen, Aktionsqueues und Einlöseschritte für 8 Ball Duels."
+  },
+  "mechanics": {
+    "overviewTitle": "8 Ball Duels Spielmechaniken",
+    "overviewDescription": "Detaillierte Analyse der Physiksimulation, Laufbahnvorhersagen, Bandenreflexionen, Effet-Steuerung und offiziellen Duellregeln."
+  },
+  "controls": {
+    "overviewTitle": "8 Ball Duels Steuerung & Einstellungen",
+    "overviewDescription": "Komplette Anleitung zu Zielrädern, Kraftreglern, Touch-Gesten und Mauseinstellungen auf allen Plattformen."
+  },
+  "progression": {
+    "overviewTitle": "8 Ball Duels Fortschritt & Upgrades",
+    "overviewDescription": "Level-Meilensteine, Münz-Farming, Queue-Rang-Freischaltungen und Werte-Upgrades in 8 Ball Duels."
+  },
+  "modes": {
+    "overviewTitle": "8 Ball Duels Spielmodi",
+    "overviewDescription": "Erkunde 1v1-Duelle, Mehrspieler-Lobbys, Trickshot-Herausforderungen und hochdotierte Turnierbäume."
+  },
+  "community": {
+    "overviewTitle": "8 Ball Duels Community & Updates",
+    "overviewDescription": "Bleibe informiert mit offiziellen Discord-Servern, Reddit-Communitys, Balance-Patch-Notes und Update-Veröffentlichungen."
+  }
+}
