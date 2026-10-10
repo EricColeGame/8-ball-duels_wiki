@@ -6,7 +6,15 @@
     "description": "8 Ball Duels is a competitive billiards game focused on online pool matches, strategic shots, cue control, and head-to-head duels against other players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "progression": "Progression",
+    "modes": "Modes",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "8 Ball Duels Wiki - Codes, Guides & Tips",
@@ -440,5 +448,33 @@
     "buildGuide": "Cue Sticks",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "8 Ball Duels Guides & Strategies",
+    "overviewDescription": "Comprehensive gameplay walkthroughs, beginner tutorials, bank shot methods, and winning strategies for 8 Ball Duels."
+  },
+  "codes": {
+    "overviewTitle": "8 Ball Duels Codes & Free Rewards",
+    "overviewDescription": "All active redeem codes, free coin rewards, promo cues, and redemption steps for 8 Ball Duels."
+  },
+  "mechanics": {
+    "overviewTitle": "8 Ball Duels Game Mechanics",
+    "overviewDescription": "In-depth breakdown of physics simulation, trajectory predictions, cushion reflections, spin control, and official duel rules."
+  },
+  "controls": {
+    "overviewTitle": "8 Ball Duels Controls & Settings",
+    "overviewDescription": "Complete guide to aiming wheels, power sliders, touch gestures, and mouse configurations across platforms."
+  },
+  "progression": {
+    "overviewTitle": "8 Ball Duels Progression & Upgrades",
+    "overviewDescription": "Leveling milestones, coin farming, cue stick tier unlocks, and stat upgrades in 8 Ball Duels."
+  },
+  "modes": {
+    "overviewTitle": "8 Ball Duels Game Modes",
+    "overviewDescription": "Explore 1v1 duels, multiplayer lobbies, trick shot challenges, and high-stakes tournament brackets."
+  },
+  "community": {
+    "overviewTitle": "8 Ball Duels Community & Updates",
+    "overviewDescription": "Stay connected with official Discord servers, Reddit communities, balance patch notes, and update releases."
   }
 }
