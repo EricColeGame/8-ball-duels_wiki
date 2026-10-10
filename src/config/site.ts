@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Codes, Cue Sticks & Trick Shots",
   description: "8 Ball Duels is a competitive billiards game focused on online pool matches, strategic shots, cue control, and head-to-head duels against other players.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://8-ball-duels.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://8-ball-duels.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@8-ball-duels.wiki",
   gameUrl: "https://www.roblox.com/games/116921506811323/8-Ball-Duels",
   heroVideoId: "1f44MrC_O_Y",
   social: {
