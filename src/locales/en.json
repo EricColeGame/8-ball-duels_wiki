@@ -13,7 +13,9 @@
     "controls": "Controls",
     "progression": "Progression",
     "modes": "Modes",
-    "community": "Community"
+    "community": "Community",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
   },
   "home": {
     "meta": {

@@ -13,7 +13,9 @@
     "controls": "Steuerung",
     "progression": "Fortschritt",
     "modes": "Modi",
-    "community": "Community"
+    "community": "Community",
+    "toggleTheme": "Design umschalten",
+    "menu": "Menü"
   },
   "home": {
     "meta": {

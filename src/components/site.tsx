@@ -21,7 +21,7 @@ export async function SiteHeader({ locale }: { locale: string }) {
     <div className="flex items-center justify-between gap-4">
       <Link href={localizeHref("/", locale)} className="flex items-center gap-3">
         <div className="relative flex h-9 w-9 items-center justify-center overflow-hidden rounded-xl border border-border bg-muted shadow-sm text-sm font-black text-foreground">
-          <img src="/images/logo.png" alt="8 Ball Duels" className="h-full w-full object-cover" onError={(e) => { (e.target as HTMLElement).style.display = "none"; }} />
+          <img src="/images/logo.png" alt="8 Ball Duels" className="h-full w-full object-cover"  />
           <span>8</span>
         </div>
         <span className="text-sm font-bold tracking-wide text-foreground">{siteConfig.name}</span>
