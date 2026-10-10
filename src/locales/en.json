@@ -39,260 +39,334 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master standard 8-ball rules, table openings, solid and stripe assignments, and ball-in-hand safety."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Redeem Free Codes",
+          "description": "Claim active promo codes to earn starting coins, exclusive chalk, and starter cue cases."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fastest Leveling",
+          "description": "Earn maximum XP through consecutive potted balls, clean table runs, and tournament victories."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in 8 Ball Duels."
+          "title": "Cue Upgrades & Stats",
+          "description": "Invest winnings into Aim guidelines, cue ball Spin, and Time extensions for competitive duels."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
+      "eyebrow": "Popular Guides",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Active Codes",
+        "Cue Upgrades",
+        "Trick Shots"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master table basics, shot selection, and avoid costly fouls from day one.",
+          "href": "/guide/8-ball-duels-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Redeem all working promo codes for free coins and cue fragments.",
+          "href": "/codes/8-ball-duels-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Cue Upgrades",
+          "description": "Discover stat priorities for Aim, Power, Spin, and Time extensions.",
+          "href": "/progression/8-ball-duels-upgrades"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Trick Shots",
+          "description": "Learn cushion kicks, caroms, and spin manipulation to solve tough racks.",
+          "href": "/guide/8-ball-duels-trick-shots"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Controls Guide",
+          "description": "Master desktop and mobile cue inputs, fine-tune aiming, and stroke timing.",
+          "href": "/controls/8-ball-duels-controls-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Modes",
+          "title": "Tournaments",
+          "description": "Climb multi-round knockout brackets to earn exclusive trophy payouts.",
+          "href": "/modes/8-ball-duels-tournaments"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Strategy",
+          "title": "Bank Shots",
+          "description": "Calculate geometric cushion angles for consistent rail pot execution.",
+          "href": "/guide/8-ball-duels-bank-shots"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Mechanics",
+          "title": "The Perfect Break",
+          "description": "Optimize break power and head-ball contact to control table openings.",
+          "href": "/mechanics/8-ball-duels-break"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Mechanics",
+          "title": "Aiming Guide",
+          "description": "Calibrate angle cut lines and cue ball trajectory predictions.",
+          "href": "/mechanics/8-ball-duels-aiming"
         }
       ]
     },
     "aboutGame": {
       "title": "What is 8 Ball Duels?",
       "paragraphs": [
-        "8 Ball Duels is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "8 Ball Duels is a competitive online multiplayer billiards game on Roblox featuring realistic table physics, head-to-head 1v1 duels, and multi-round knockout tournament brackets. Players wager coins across distinct billiard halls, line up precise angles, and sink solids or stripes before potting the 8-ball for victory.",
+        "Master cue ball spin manipulation, fine-tune your aiming guidelines, and upgrade specialized cues to improve shot accuracy, power, and shot clock limits. Whether you are executing delicate bank shots or orchestrating multi-ball caroms, our wiki delivers comprehensive strategies and mechanical breakdowns to help you dominate every table."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Game Developers"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Competitive Billiards"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "1M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Game Modes",
+          "value": "8 Modes"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Active Codes",
+          "value": "Available"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore 8 Ball Duels Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Explore comprehensive guides, active reward codes, cue upgrade tiers, and advanced trick shot mechanics to master every competitive table in 8 Ball Duels.",
       "modules": [
         {
           "order": 1,
-          "name": "8 Ball Duels Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/8-ball-duels-codes",
-          "displayType": "code-box",
+          "name": "8 Ball Duels Beginner Guide",
+          "description": "This module introduces new players to the basic gameplay flow, match system, controls, aiming techniques, and progression mechanics. It helps beginners understand how to start matches, earn rewards, and improve their pool skills.",
+          "displayType": "step-by-step",
+          "href": "/guide/8-ball-duels-beginner-guide",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Deliver a controlled break aimed at the head ball to spread clusters across the felt"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Sink your first legally pocketed ball to secure solids (1-7) or stripes (9-15)"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Plan positional cue ball paths using the fine-tune aiming wheel and spin dial"
+            },
+            {
+              "label": "4",
+              "detail": "Clear your assigned ball group completely before sinking the black 8-ball to win"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/8-ball-duels-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "8 Ball Duels Codes",
+          "description": "This module covers available reward codes, redemption methods, and possible free items or bonuses from official events. It can target users searching for free coins, rewards, and exclusive items.",
+          "displayType": "code-cards",
+          "href": "/codes/8-ball-duels-codes",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "WELCOME",
+              "detail": "Redeem for 2,500 bonus coins and starter cue case",
+              "badge": "Active"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "DUELS2026",
+              "detail": "Redeem for 5,000 coins and premium chalk kit",
+              "badge": "Active"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "TRICKSHOT",
+              "detail": "Redeem for exclusive spin ticket voucher",
+              "badge": "Active"
+            },
+            {
+              "label": "CUECHAMP",
+              "detail": "Redeem for free tournament entry bracket ticket",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/8-ball-duels-tier-list",
-          "displayType": "tier-grid",
+          "name": "8 Ball Duels Cue Sticks",
+          "description": "This module explains the different cue sticks, upgrades, and equipment progression available in the game. Players can compare equipment advantages and learn how to improve their performance.",
+          "displayType": "card-list",
+          "href": "/progression/8-ball-duels-upgrades",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Force",
+              "detail": "High-impact break cue built to scatter tight clusters with max velocity"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Precision",
+              "detail": "Extended trajectory guideline cue engineered for long-distance pocketing"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Vortex",
+              "detail": "High-english spin cue optimized for draw shots and curved escapes"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Titan",
+              "detail": "Championship balanced cue offering bonus shot clock extension"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/8-ball-duels-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "8 Ball Duels Trick Shots",
+          "description": "This module focuses on advanced shooting techniques, trick shots, aiming strategies, and ways to complete challenging pool shots. It targets players looking for skill improvement and competitive tips.",
+          "displayType": "step-by-step",
+          "href": "/guide/8-ball-duels-trick-shots",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Calculate cushion rebound angles to bypass blocking opponent balls"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Apply bottom spin draw to pull the cue ball away from pocket scratches"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Utilize topspin follow to drive the cue ball forward into favorable position"
+            },
+            {
+              "label": "4",
+              "detail": "Align multi-ball carom angles to pocket balls trapped behind clusters"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/8-ball-duels-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "8 Ball Duels Equipment Guide",
+          "description": "This module provides information about upgradeable equipment, pool tables, and customization options. It helps players understand which items are useful for progression.",
+          "displayType": "tier-grid",
+          "href": "/progression/8-ball-duels-unlocks",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Legendary Cues: Maximum guideline extension, +10s clock, and top spin friction"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Tournament Cues: High spin rating and long aim paths for ranked bracket play"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Advanced Cues: Well-rounded power and solid spin control for mid-tier venues"
+            },
+            {
+              "label": "C",
+              "detail": "Starter Cues: Standard wooden cues with short guidelines and basic strike force"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/8-ball-duels-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "8 Ball Duels Leagues Guide",
+          "description": "This module explains the league ranking system, competitive matches, and strategies for climbing leaderboards. It is designed for players who want to compete at higher levels.",
+          "displayType": "card-list",
+          "href": "/modes/8-ball-duels-tournaments",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Master",
+              "detail": "Elite high-stakes bracket with no aim assistance and tight 25s timers"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Diamond",
+              "detail": "Advanced league requiring consistent cue ball positioning and high buy-ins"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Platinum",
+              "detail": "Competitive ladder division with medium guidelines and bracket rewards"
+            },
+            {
+              "label": "Rookie",
+              "detail": "Introductory division with full guidelines and beginner coin protection"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "8 Ball Duels Controls Guide",
+          "description": "This module lists available controls for desktop, mobile, Xbox, and PlayStation platforms. It helps players quickly learn how to aim, shoot, and manage matches on different devices.",
+          "displayType": "code-cards",
+          "href": "/controls/8-ball-duels-controls-guide",
+          "highlights": [
+            {
+              "label": "Drag Aim",
+              "detail": "Pans the cue stick around the table to align pocket trajectories",
+              "badge": "Touch/Mouse"
+            },
+            {
+              "label": "Fine Wheel",
+              "detail": "Micro-adjusts shot angles by single-degree increments",
+              "badge": "Precision"
+            },
+            {
+              "label": "Power Bar",
+              "detail": "Pulls back cue stick to calibrate stroke velocity from 1% to 100%",
+              "badge": "Impulse"
+            },
+            {
+              "label": "Spin Ball",
+              "detail": "Selects cue tip contact point for top, bottom, or side english",
+              "badge": "Trajectory"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "8 Ball Duels Updates",
+          "description": "This module collects official updates, seasonal content, new cue sticks, pool tables, and gameplay changes. It keeps returning players informed about new features and events.",
+          "displayType": "card-list",
+          "href": "/community/8-ball-duels-updates",
+          "highlights": [
+            {
+              "label": "Physics",
+              "detail": "Refined cushion rebound tension and natural cue ball friction bleed"
+            },
+            {
+              "label": "Brackets",
+              "detail": "Introduced 16-player single elimination tournaments with trophy prizes"
+            },
+            {
+              "label": "Custom",
+              "detail": "Added new cue wraps, collectible chalk trails, and table felts"
+            },
+            {
+              "label": "Ranked",
+              "detail": "Enhanced skill-based matchmaking and weekly league leaderboard resets"
             }
           ]
         }
@@ -300,27 +374,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about 8 Ball Duels.",
+      "description": "Quick answers to the most common questions about 8 Ball Duels rules, mechanics, cues, and codes.",
       "items": [
         {
           "question": "What is 8 Ball Duels?",
-          "answer": "8 Ball Duels is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "8 Ball Duels is a competitive online billiards game on Roblox where players compete in real-time 1v1 pool matches and tournament brackets following standard 8-ball rules."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do match rules and fouls work in 8 Ball Duels?",
+          "answer": "In 8 Ball Duels, the table remains open until a player legally sinks a called ball, deciding solids or stripes. Fouling by scratching or hitting opponent balls awards cue ball in hand, while sinking the 8-ball early causes an immediate loss."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I redeem promo codes in 8 Ball Duels?",
+          "answer": "To redeem codes in 8 Ball Duels, open the in-game Shop or Settings menu from the lobby, tap the Promo Code button, enter your active voucher, and confirm to claim free coins and cue items."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which cue stats should I prioritize upgrading in 8 Ball Duels?",
+          "answer": "When upgrading cues in 8 Ball Duels, prioritize Aim guideline extension and Spin control for positioning. Extra Time is essential for complex cluster shots, while Power should be upgraded with care to prevent scratches."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do tournament brackets work in 8 Ball Duels?",
+          "answer": "Tournaments in 8 Ball Duels feature single-elimination knockout brackets for 8 to 32 players, where stringing together consecutive frame wins earns exclusive trophies and large coin rewards."
         }
       ]
     },
